@@ -1,0 +1,29 @@
+{
+  "name": "recoverable-code",
+  "version": "0.1.0",
+  "description": "When you need to make sure that a process gets completed even in case of nodejs program crash and restarts",
+  "main": "index.js",
+  "dependencies": {
+    "fs-ext": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guenoledc/recoverable-code.git"
+  },
+  "keywords": [
+    "nodejs",
+    "persistent",
+    "callback",
+    "recoverable"
+  ],
+  "author": "Guénolé de Cadoudal <guenoledc@yahoo.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guenoledc/recoverable-code/issues"
+  },
+  "homepage": "https://github.com/guenoledc/recoverable-code#readme"
+}
